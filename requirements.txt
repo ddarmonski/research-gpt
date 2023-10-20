@@ -1,0 +1,9 @@
+azure-identity==1.13.0b4
+Flask==2.3.2
+openai==0.27.7
+azure-search-documents==11.4.0b3
+azure-storage-blob==12.14.1
+python-dotenv==1.0.0
+geoip2==4.7.0
+opencensus-ext-flask==0.8.2
+opencensus-ext-azure==1.1.9
